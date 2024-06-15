@@ -14,7 +14,6 @@ import CarouselSection from "./components/CarouselSection.jsx";
 import LastSection from "./components/LastSection.jsx";
 import Footer from "./components/Footer.jsx";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Dashboard from "./components/DB.jsx";
 import Login from "./components/Login.jsx";
 function App() {
   return (
